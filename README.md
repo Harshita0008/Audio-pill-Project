@@ -7,7 +7,7 @@ Try it out
 Clone this repository:
 ```
 git clone https://github.com/your-username/audio-pill-player
-cd audio-pill-player
+cd Audio-Pill
 ```
 Install dependencies:
 ``` npm install ```
